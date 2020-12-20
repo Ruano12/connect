@@ -1,2 +1,2 @@
 # connect
-Connect é um app de conexão e gestao de tokens, via keycloak.
+Connect é um app de conexão e gestão de tokens, via keycloak.
