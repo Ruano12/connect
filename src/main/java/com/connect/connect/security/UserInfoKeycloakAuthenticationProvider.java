@@ -20,11 +20,7 @@ import org.springframework.security.core.authority.mapping.GrantedAuthoritiesMap
 import org.springframework.stereotype.Component;
 
 
-/**
- * Essa classe é responsável por obter e unificar as roles fazendo leitura do token e do UserInfo.
- *
- * @author ricardo.marques@oruspay.com.br
- */
+
 @Component
 public class UserInfoKeycloakAuthenticationProvider implements AuthenticationProvider {
 
